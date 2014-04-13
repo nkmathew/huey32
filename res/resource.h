@@ -1,0 +1,39 @@
+#ifndef IDC_STATIC
+#define IDC_STATIC (-1)
+#endif
+
+#define ID_HUEY_ICON                 105
+#define ID_MAIN_DIALOG               106
+#define ID_COLORNAME_LISTBOX         1000
+#define ID_SETSIZE_BUTTON            1002
+#define ID_BOLD_CHECKBOX             1003
+#define ID_SLIDER1                   1006
+#define ID_COLORNAME_ENTRYBOX_LABEL  1011
+#define ID_COLORNAME_LISTBOX_LABEL   1012
+#define ID_BACKGROUND_RADIO          1045
+#define ID_TEXT_RADIO                1046
+#define ID_FONTNAME_LISTBOX          1047
+#define ID_FONTNAME_STATIC           1049
+#define ID_FONTSIZE_EDITBOX          1050
+#define ID_HSV_RADIO                 1053
+#define ID_RGB_RADIO                 1054
+#define ID_CMY_RADIO                 1055
+#define ID_ITALIC_CHECKBOX           1056
+#define ID_COLORNAME_ENTRYBOX        1057
+#define ID_TEXTCOLOR_LABEL           1060
+#define ID_BACKGROUNDCOLOR_LABEL     1061
+#define ID_SLIDER1_LABEL             1062
+#define ID_SLIDER2_LABEL             1063
+#define ID_SLIDER3_LABEL             1064
+#define ID_CLIPBOARD_BUTTON          1066
+#define ID_SLIDER1_VALUE             1073
+#define ID_SLIDER2_VALUE             1074
+#define ID_SLIDER3_VALUE             1075
+#define ID_SLIDER1_PLUS              1076
+#define ID_SLIDER2_PLUS              1077
+#define ID_SLIDER3_PLUS              1078
+#define ID_SLIDER1_MINUS             1079
+#define ID_SLIDER2_MINUS             1080
+#define ID_SLIDER3_MINUS             1081
+#define ID_SLIDER2                   1082
+#define ID_SLIDER3                   1083
